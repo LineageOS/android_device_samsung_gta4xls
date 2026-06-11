@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "541ac494_e636fd1d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36705
+      },
+      "writtenOn": "2026-06-11T12:39:36Z",
+      "side": 1,
+      "message": "Can\u0027t you use libprotobuf-cpp-full-21.7 from hardware/lineage/compat?",
+      "revId": "ec78be08774a5496d2831927dec702c17c6a7215",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
